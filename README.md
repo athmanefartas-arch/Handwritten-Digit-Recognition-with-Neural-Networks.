@@ -47,7 +47,7 @@ I used Matplotlib to visualize the model's performance during training. The trai
 ![Training and Validation Accuracy](accuracy.png)
 
 ### Loss
-![Training and Validation Loss](loss.png)
+![Training and Validation Loss](Model-loss.png)
 
 
 ## Technologies

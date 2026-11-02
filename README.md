@@ -38,17 +38,17 @@ The model was trained using the following configuration:
 - Batch size: 128
 - Validation split: 20%
 
+
 ## Results
 
-I used Matplotlib to visualize the model's performance during training.
+I used Matplotlib to visualize the model's performance during training. The training and validation accuracy and loss graphs are included in the repository as image files.
 
 ### Accuracy
-
-![Training and Validation Accuracy](images/accuracy.png)
+![Training and Validation Accuracy](accuracy.png)
 
 ### Loss
+![Training and Validation Loss](loss.png)
 
-![Training and Validation Loss](images/loss.png)
 
 ## Technologies
 
